@@ -157,36 +157,81 @@ typedef struct group_body {
 
 
 static const char* humminbird_icons[] = {
-  "Normal",       /*  0 */
-  "House",        /*  1 */
-  "Red cross",    /*  2 */
-  "Fish",         /*  3 */
-  "Duck",         /*  4 */
-  "Anchor",       /*  5 */
-  "Buoy",         /*  6 */
-  "Airport",      /*  7 */
-  "Camping",      /*  8 */
-  "Danger",       /*  9 */
-  "Fuel",         /* 10 */
-  "Rock",         /* 11 */
-  "Weed",         /* 12 */
-  "Wreck",        /* 13 */
-  "Phone",        /* 14 */
-  "Coffee",       /* 15 */
-  "Beer",         /* 16 */
-  "Mooring",      /* 17 */
-  "Pier",         /* 18 */
-  "Slip",         /* 19 */
-  "Ramp",         /* 20 */
-  "Circle",       /* 21 */
-  "Diamond",      /* 22 */
-  "Flag",         /* 23 */
-  "Pattern",      /* 24 */
-  "Shower",       /* 25 */
-  "Water tap",    /* 26 */
-  "Tree",         /* 27 */
-  "Recording",    /* 28 */
-  "Snapshot"      /* 29 */
+    "Waypoint", /* 0 */
+    "Home", /* 1 */
+    "Cross", /* 2 */
+    "Fish", /* 3 */
+    "Duck", /* 4 */
+    "Buoy", /* 5 */
+    "Anchor", /* 6 */
+    "Airport", /* 7 */
+    "Camp", /* 8 */
+    "Danger", /* 9 */
+    "Gas", /* 10 */
+    "Rocks", /* 11 */
+    "Weed", /* 12 */
+    "Wreck", /* 13 */
+    "Phone", /* 14 */
+    "Restaurant", /* 15 */
+    "Beverage", /* 16 */
+    "Moor", /* 17 */
+    "Pier", /* 18 */
+    "Slip", /* 19 */
+    "Boat Ramp", /* 20 */
+    "Circle", /* 21 */
+    "Diamond", /* 22 */
+    "Flag", /* 23 */
+    "Pattern", /* 24 */
+    "Shower", /* 25 */
+    "Water", /* 26 */
+    "Timber", /* 27 */
+    "Recording", /* 28 */
+    "Snapshot", /* 29 */
+    "Unk1",
+    "Bad Ice Hole", /* 30 */
+    "Bass", /* 31 */
+    "Beach", /* 32 */
+    "Beacon", /* 33 */
+    "Car", /* 34 */
+    "Coast Guard", /* 35 */
+    "Crack In Ice", /* 36 */
+    "Dam", /* 37 */
+    "Drop Off", /* 38 */
+    "Good Catch", /* 39 */
+    "Unk2",
+    "Good Ice Hole", /* 40 */
+    "Grass", /* 41 */
+    "Gravel", /* 42 */
+    "Grouse", /* 43 */
+    "Ice", /* 44 */
+    "Information", /* 45 */
+    "Lobster", /* 46 */
+    "Macherel", /* 47 */
+    "Mud", /* 48 */
+    "No Anchor", /* 49 */
+    "No Horn", /* 50 */
+    "Panfish", /* 51 */
+    "Picnic", /* 52 */
+    "Playround", /* 53 */
+    "Redfish", /* 54 */
+    "Reef Icon", /* 55 */
+    "Restricted Area", /* 56 */
+    "Rock Pile", /* 57 */
+    "Sailfish", /* 58 */
+    "Sand", /* 59 */
+    "Sand Bar", /* 60 */
+    "Striper", /* 61 */
+    "Stump", /* 62 */
+    "Swim", /* 63 */
+    "Thin Ice", /* 64 */
+    "Trout", /* 65 */
+    "Turkey", /* 66 */
+    "Water Ski", /* 67 */
+    "Beer", /* 68 */
+    "Unk3",
+    "Unk4",
+    "Unk5",
+    "Unk6",
 };
 
 static gbfile* fin;
