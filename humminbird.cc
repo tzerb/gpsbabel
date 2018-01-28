@@ -187,7 +187,7 @@ static const char* humminbird_icons[] = {
     "Timber", /* 27 */
     "Recording", /* 28 */
     "Snapshot", /* 29 */
-    "Unk1",
+    "MOB",
     "Bad Ice Hole", /* 30 */
     "Bass", /* 31 */
     "Beach", /* 32 */
@@ -197,8 +197,8 @@ static const char* humminbird_icons[] = {
     "Crack In Ice", /* 36 */
     "Dam", /* 37 */
     "Drop Off", /* 38 */
-    "Good Catch", /* 39 */
-    "Unk2",
+    "Fine Cross", /* 39 */
+    "Good Catch",
     "Good Ice Hole", /* 40 */
     "Grass", /* 41 */
     "Gravel", /* 42 */
@@ -206,7 +206,7 @@ static const char* humminbird_icons[] = {
     "Ice", /* 44 */
     "Information", /* 45 */
     "Lobster", /* 46 */
-    "Macherel", /* 47 */
+    "Macheral", /* 47 */
     "Mud", /* 48 */
     "No Anchor", /* 49 */
     "No Horn", /* 50 */
@@ -227,8 +227,8 @@ static const char* humminbird_icons[] = {
     "Trout", /* 65 */
     "Turkey", /* 66 */
     "Water Ski", /* 67 */
-    "Beer", /* 68 */
-    "Unk3",
+    "Bridge Icon", /* 68 */
+    "Waypoint",
     "Unk4",
     "Unk5",
     "Unk6",
